@@ -165,7 +165,7 @@ nav > ul {
   width: 100%;
   padding: 5px;
   margin-top: 10px;
-  margin-left: 690px;
+  margin-left: 600px;
   border-radius: 10px;
   border: 1px black solid;
 }
@@ -173,7 +173,7 @@ nav > ul {
 #customer input[type='submit'] {
   max-width: 150px;
   margin-top: 10px;
-  margin-left: 750px;
+  margin-left: 650px;
   width: 100%;
   height: 30px;
   border-radius: 20px;
@@ -196,7 +196,7 @@ nav > ul {
 
 #img{
   margin-top: 30px;
-  margin-left: 550px;
+  margin-left: 480px;
 }
 
 #features {
